@@ -4,7 +4,7 @@
     <Hero />
     <FlashSale />
     <Middle />
-    <!-- <Review /> -->
-    <!-- <Footer /> -->
+    <Review />
+    <Footer />
 </div>
 </template>
