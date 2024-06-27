@@ -19,9 +19,13 @@
             </div>
 
         </div>
-        <div class='col'>
-            <NuxtLink to="/login">Login / Register</NuxtLink>
-
+        <div class="flex items-center space-x-2">
+            <img src="~assets/search.png" class="border-r-black border-1 
+            border-spacing-3" alt="" style="height: 15px;">
+            <NuxtLink to="/login">
+                Login / Register
+            </NuxtLink>
         </div>
+
     </div>
 </template>
