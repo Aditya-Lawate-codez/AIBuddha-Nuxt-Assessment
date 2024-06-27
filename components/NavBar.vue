@@ -20,7 +20,8 @@
 
         </div>
         <div class='col'>
-            Login / Register
+            <NuxtLink to="/login">Login / Register</NuxtLink>
+
         </div>
     </div>
 </template>

@@ -9,6 +9,7 @@ const products = [
 </script>
 
 <template>
+    
     <div class="flex flex-col py-10 ">
         <div class="text-center text-2xl font-bold">Flash Sale</div>
         <div class="flex flex-row my-5 content-center m-auto space-x-7 ">
