@@ -1,12 +1,10 @@
 <style scoped>
-.bgImg{
+.bgImg {
     background-image: url('~/assets/img/footer/1.jpeg');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
     background-color: rgba(0, 0, 0, 0.5);
-    height: 20%;
 }
 </style>
 

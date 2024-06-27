@@ -69,7 +69,7 @@ var liEle = $(".marquee-item-list li");
             <img class='mx-2 rounded-lg' style="width: 384px; height: 582px; " src="~assets/img/HeroImage.jpeg" alt="">
         </div>
     </div>
-    <div class="marquee-row">
+    <div class="marquee-row  bg-white border-6">
         <div class="marquee-block marquee1 border-double">
             <ul class="marquee-item-list ">
                 <li>Customer Support ⚫   </li>

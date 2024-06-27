@@ -1,7 +1,9 @@
 <template>
+    <p class="text-4xl font-bold font-sans text-center py-5">What  People Are Saying</p>
     <div
         class="mb-8 border inline-flex border-gray-200 rounded-lg shadow-sm dark:border-gray-700 md:mb-12 md:grid-cols-2 bg-white dark:bg-gray-800">
-         <figure
+
+        <figure
             class="flex flex-col items-start justify-start p-8 text-center  border-gray-200 rounded-b-lg md:rounded-se-lg dark:bg-gray-800 dark:border-gray-700">
             <figcaption class="flex items-center justify-between  w-full ">
                 <div class="inline-flex">
@@ -21,7 +23,7 @@
                 </p>
             </blockquote>
         </figure>
-         <figure
+        <figure
             class="flex flex-col items-start justify-start p-8 text-center  border-gray-200 rounded-b-lg md:rounded-se-lg dark:bg-gray-800 dark:border-gray-700">
             <figcaption class="flex items-center justify-between  w-full ">
                 <div class="inline-flex">
@@ -41,7 +43,7 @@
                 </p>
             </blockquote>
         </figure>
-         <figure
+        <figure
             class="flex flex-col items-start justify-start p-8 text-center  border-gray-200 rounded-b-lg md:rounded-se-lg dark:bg-gray-800 dark:border-gray-700">
             <figcaption class="flex items-center justify-between  w-full ">
                 <div class="inline-flex">
