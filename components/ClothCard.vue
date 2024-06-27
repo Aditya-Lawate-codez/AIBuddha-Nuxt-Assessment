@@ -30,7 +30,10 @@ defineProps({
       </div>
       <div class="flex flex-row justify-between p-3">
         <div class="flex-col font-bold text-xl">${{ price }}</div>
-        <div class="flex-col rounded-xl border-pink-500 text-pink-500 border p-1 fill-transparent border-spacing-2">BUY
+        <div class="flex-col rounded-xl border-pink-500 text-pink-500 border p-1 fill-transparent border-spacing-2">
+          <NuxtLink to='/buy'>
+            BUY
+          </NuxtLink>
         </div>
       </div>
     </div>
