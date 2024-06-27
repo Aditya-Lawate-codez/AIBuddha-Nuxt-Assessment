@@ -42,15 +42,6 @@
     }
 }
 </style>
-<!-- 
-<script scoped>
-var elements = $('ul.marquee-item-list li').length;
-for(var i=0;i < elements; i++){
- $(".marquee-item-list").clone().prependTo( ".marquee-block" );
-};
-var liEle = [];
-var liEle = $(".marquee-item-list li");
-</script> -->
 <template>
     <div class="flex justify-between h-lvh">
         <div class="space-y-6 flex-1 justify-between content-evenly my-auto">
