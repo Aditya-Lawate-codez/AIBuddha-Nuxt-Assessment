@@ -57,7 +57,7 @@ var liEle = $(".marquee-item-list li");
             <div class="text-8xl text-left font-bold">
                 New Summer Collection
             </div>
-            <div class="text-gray-400">
+            <div class="text-gray-800 text-lg">
                 Shop the best clothes in the world
             </div>
             <div>
